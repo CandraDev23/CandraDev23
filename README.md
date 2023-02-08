@@ -1,16 +1,16 @@
-### Hi there 👋
+## About me
 
-<!--
-**CandraDev23/CandraDev23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Candra Setiawan | he/him | Purwokerto/Central Java/Indonesia
+Hi! You can call me Candra. I'm studying at <a href="https://smktelkom-pwt.sch.id/">SMK Telkom Purwokerto<a/>
 
-Here are some ideas to get you started:
+Looking for my project? You can check in my repositories <a href="https://github.com/CandraDev23?tab=repositories">here<a/>
+##
+#### Social Media
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### <a href="https://www.instagram.com/can_setiawan/">Instagram<a>
+##### <a href="https://www.facebook.com/chandra.setyawan.7146/">Facebook<a>
+
+#### Design Portfolio
+
+##### <a href="https://dribbble.com/DesignByCandra">Dribbble<a>
+##### <a href="https://www.instagram.com/designbycandra/">Instagram<a>
