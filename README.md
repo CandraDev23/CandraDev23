@@ -11,7 +11,7 @@ Hi! You can call me Candra. I'm studying at <a href="https://smktelkom-pwt.sch.i
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CandraDev23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CandraDev23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+#
 
 Looking for my project? You can check in my repositories <a href="https://github.com/CandraDev23?tab=repositories">here<a/>
   
