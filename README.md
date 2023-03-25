@@ -15,7 +15,7 @@ Hi! You can call me Candra. I'm studying at <a href="https://smktelkom-pwt.sch.i
 
 Looking for my project? You can check in my repositories <a href="https://github.com/CandraDev23?tab=repositories">here<a/>
   
-##
+#
 
 #### Design Portfolio
 
