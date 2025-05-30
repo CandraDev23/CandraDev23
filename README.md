@@ -1,5 +1,5 @@
 ### Candra Setiawan | he/him | Purwokerto/Central Java/Indonesia
-Hi! You can call me Candra. I'm studying at <a href="https://smktelkom-pwt.sch.id/">SMK Telkom Purwokerto<a/>
+Hi! You can call me Candra. I'm studying at <a href="#">Telkom University Purwokerto<a/>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/911938523593068564) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chandra.setyawan.7146/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/can_setiawan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/candra-setiawan-783857253/) 
